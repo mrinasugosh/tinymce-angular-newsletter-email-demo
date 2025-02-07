@@ -45,6 +45,9 @@ npm start
 
 Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+<img width="765" alt="image" src="https://github.com/user-attachments/assets/5d2ffbfb-aa21-4167-ace2-052a33eebad5" />
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
