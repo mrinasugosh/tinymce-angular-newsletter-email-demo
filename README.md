@@ -1,4 +1,4 @@
-# TinyMCE Angular Demo
+# TinyMCE Newsletter Email Editor Demo (Angular)
 
 This project demonstrates the integration of TinyMCE as a Newsletter Email Editor with an Angular application. It showcases how to set up and customize TinyMCE and the workshop goes through setting up the environment, installing dependencies, and building the project using Windsurf AI
 
