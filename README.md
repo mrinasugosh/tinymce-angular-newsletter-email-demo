@@ -63,10 +63,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Support
 
 If you have any questions or issues, please create an issue in the GitHub repository or [contact us](https://www.tiny.cloud/contact/?utm_campaign=mlh_devrel_ghw_feb&utm_source=github&utm_medium=referral&utm_term=email-angular-demo).
-ng e2e
-```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
 ## Additional Resources
 
