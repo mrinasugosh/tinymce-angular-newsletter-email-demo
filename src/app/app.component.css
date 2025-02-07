@@ -1,0 +1,42 @@
+main {
+  max-width: 980px;
+  margin: 1rem auto;
+  font-family: Arial, sans-serif;
+}
+
+.editor-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+  border-bottom: 1px solid #e0e0e0;
+  background-color: #fff;
+  margin: -1rem -1rem 1rem -1rem;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.nav-btn {
+  padding: 6px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #666;
+  margin-top: 0;
+}
+
+.nav-btn.active {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.nav-actions button {
+  color: #666;
+  margin-top: 0;
+}
+
+button[mat-raised-button] {
+  margin-top: 1rem;
+}

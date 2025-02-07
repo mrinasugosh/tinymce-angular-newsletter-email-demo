@@ -1,0 +1,25 @@
+<main>
+  <nav class="editor-nav">
+    <div class="nav-buttons">
+      <button mat-button class="nav-btn active">Edit</button>
+      <button mat-button class="nav-btn">Settings</button>
+      <button mat-button class="nav-btn">Send or Schedule</button>
+    </div>
+    <div class="nav-actions">
+      <button mat-button [matMenuTriggerFor]="actionsMenu">Actions</button>
+      <mat-menu #actionsMenu="matMenu">
+        <button mat-menu-item>Action 1</button>
+        <button mat-menu-item>Action 2</button>
+      </mat-menu>
+    </div>
+  </nav>
+
+  <editor
+    id="editor"
+    [apiKey]="apiKey"
+    [init]="editorConfig"
+    [(ngModel)]="editorContent">
+  </editor>
+
+  <button mat-raised-button (click)="getInlinedCSS()">Get Inlined CSS</button>
+</main>
