@@ -23,7 +23,7 @@ This project demonstrates the integration of TinyMCE as a Newsletter Email Edito
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tinymce-angular-newsletter-email-demo.git
+   git clone https://github.com/mrinasugosh/tinymce-angular-newsletter-email-demo.git
    ```
 
 2. Navigate to the project directory:
